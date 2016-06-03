@@ -1,0 +1,19 @@
+.b-img__preschool{
+  float: left;
+  max-width: 450px;
+  min-width: 50px;
+  margin-top: -50px;
+}
+
+.b-img__school{
+  float: left;
+  max-width: 450px;
+  min-width: 50px;
+  margin-top: -170px;
+}
+
+.b-img__adults{
+  float: left;
+  max-width: 450px;
+  min-width: 50px;
+}
