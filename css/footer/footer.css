@@ -1,0 +1,16 @@
+.b-footer{
+  position: relative;
+  width: 90%;
+  background-color: white;
+  margin: auto;
+  overflow: hidden;
+  margin-top: -145px ;
+  border-radius: 15px;
+}
+
+.b-footer__title{
+  font-size: 30px;
+  font-weight: 400;
+  align-content: center;
+  text-align: center;
+}
