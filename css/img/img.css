@@ -1,19 +1,44 @@
 .b-img__preschool{
   float: left;
-  max-width: 450px;
-  min-width: 50px;
-  margin-top: -50px;
+  max-width: 100%;
+  min-width: 10%;
+  background-color: inherit;
+  float: left;
+}
+
+.b-img__preschool:hover{
+  transform: scale(1.02);
+  transition: all 0.4s linear;
+  cursor: pointer;
+  box-shadow: 0 0 10px orange;
 }
 
 .b-img__school{
   float: left;
-  max-width: 450px;
-  min-width: 50px;
-  margin-top: -170px;
+  max-width: 100%;
+  min-width: 10%;
+  background-color: inherit;
+  float: left;
+}
+
+.b-img__school:hover{
+  transform: scale(1.02);
+  transition: all 0.4s linear;
+  cursor: pointer;
+  box-shadow: 0 0 10px orange;
 }
 
 .b-img__adults{
   float: left;
-  max-width: 450px;
-  min-width: 50px;
+  max-width: 100%;
+  min-width: 10%;
+  background-color: inherit;
+  float: left;
+}
+
+.b-img__adults:hover{
+  transform: scale(1.02);
+  transition: all 0.4s linear;
+  cursor: pointer;
+  box-shadow: 0 0 10px orange;
 }
