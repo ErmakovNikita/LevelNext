@@ -4,12 +4,12 @@
   background-color: white;
   margin: auto;
   overflow: hidden;
-  margin-top: -145px ;
+  margin-top: auto;
   border-radius: 15px;
 }
 
 .b-footer__title{
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 400;
   align-content: center;
   text-align: center;
