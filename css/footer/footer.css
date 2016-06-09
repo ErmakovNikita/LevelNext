@@ -1,16 +1,10 @@
-.b-footer{
-  position: relative;
-  width: 90%;
-  background-color: white;
-  margin: auto;
-  overflow: hidden;
-  margin-top: auto;
-  border-radius: 15px;
+.b-footer__button{
+  color: white;
+  background: orange;
+  cursor: pointer;
 }
 
-.b-footer__title{
-  font-size: 25px;
-  font-weight: 400;
-  align-content: center;
-  text-align: center;
+.b-footer__button:hover{
+  background: white;
+  color: orange;
 }
