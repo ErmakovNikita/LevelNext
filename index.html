@@ -5,27 +5,30 @@
           <title>Levl Next</title>
           <link rel="stylesheet" type="text/css" href="css/style.css" />
       </head>
-    <body>
-      <header>
+    <body id="bg">
+      <header class="b-header">
         <img>
         <img>
-        <nav>
-          <a>О нас</a>
-          <a>Вакансии</a>
-          <a>ПРОГРАММЫ И ЦЕНЫ</a>
-          <a>РАСПИСАНИЕ ЗАНЯТИЙ</a>
-          <a>ЭКЗАМЕНЫ</a>
+        <img href="vk.com">
+        <nav class="b-nav">
+          <a class="b-nav__small">О нас</a>
+          <a class="b-nav__small">Вакансии</a>
+          <a class="b-nav__big">ПРОГРАММЫ И ЦЕНЫ</a>
+          <a class="b-nav__big">РАСПИСАНИЕ ЗАНЯТИЙ</a>
+          <a class="b-nav__big">ЭКЗАМЕНЫ</a>
         </nav>
-        <p>+7 (495) 767-50-57</p>
+        <p class="b-header__phone">+7 (495) 767-50-57</p>
       </header>
-      <div>
-        <h1>Программы обучения</h1>
-        <div>
+      <div class="b-content">
+        <div class="b-content__h1">
+          <h1>Программы обучения</h1>
+        </div>
+        <div class="b-content__sqteasers">
           <div>sqteaser</div>
           <div>sqteaser</div>
           <div>sqteaser</div>
         </div>
-        <div>
+        <div class="b-content__langteasers">
           <div>langteaser</div>
           <div>langteaser</div>
           <div>langteaser</div>
@@ -34,15 +37,20 @@
           <div>langteaser</div>
           <div>langteaser</div>
         </div>
-        <div>
-          <input type="text">
-          <input type="text">
-          <input type="text">
-          <input type="button">
+        <div class="b-subscribe">
+          <div class="b-input">
+            <div class="b-subscribe__h1">
+              <h3>Изучай языки <br>в любом возрасте</h3>
+            </div>
+              <input type="text" class="b-input__text" placeholder="Имя">
+              <input type="text" class="b-input__text" placeholder="Email">
+              <input type="text" class="b-input__text" placeholder="Телефон">
+              <input type="button" class="b-submit" value="Записаться на бесплатный урок">
+          </div>
         </div>
-        <div>
+        <div class="b-content__bestteachers">
           <h1>Лучшие преподаватели</h1>
-          <p></p>
+            <p></p>
           <div></div>
         </div>
         <div>
@@ -83,30 +91,33 @@
             <p>paragraph</p>
           </div>
         </div>
-        <div>
-          <h1>Записаться на бесплатный урок</h1>
-          <input type="text">
-          <input type="text">
-          <input type="text">
-          <input type="button">
+        <div class="b-feedback">
+          <h3>Записаться на бесплатный урок</h3>
+            <p class="b-feedback__text">Имя</p>
+          <input type="text" class="b-feedback__input">
+            <p class="b-feedback__text">Email</p>
+          <br><input type="text" class="b-feedback__input">
+            <p class="b-feedback__text">Телефон</p>
+          <br><input type="text" class="b-feedback__input">
+          <br><input type="button" class="b-feedback__button" value="Записаться">
         </div>
         <div>
           <img>
           <p>Готовьтесь к экзаменам Cambridge и ТКТ</p>
-          <input type="button">
+          <input type="button" class="b-promo__button" value="Все экзамены">
         </div>
       </div>
       <div>
         <article></article>
       </div>
-      <footer>
+      <footer class="b-footer">
         <img>
         <nav>
           <div>
-            <a>О НАС</a>
-            <a>ПРОГРАММЫ И ЦЕНЫ</a>
-            <a>РАСПИСАНИЕ ЗАНЯТИЙ</a>
-            <a>ВАКАНСИИ</a>
+            <a class="b-altnav">О НАС</a>
+            <a class="b-altnav">ПРОГРАММЫ И ЦЕНЫ</a>
+            <a class="b-altnav">РАСПИСАНИЕ ЗАНЯТИЙ</a>
+            <a class="b-altnav">ВАКАНСИИ</a>
           </div>
         </nav>
         <div>
@@ -120,8 +131,8 @@
           </div>
         </div>
         <div>
-          <input type="button">
-          <input type="button">
+          <input type="button" class="b-footer__button" value="Записаться на бесплангый урок">
+          <input type="button" class="b-footer__button" value="Пройти тест-онлайн">
         </div>
       </footer>
     </body>
