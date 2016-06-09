@@ -1,9 +1,5 @@
 #bg{
-    background: white;
-    overflow: scroll;
-}
-
-.b-bg{
+      background: white;
       position: absolute;
       background-color: orange;
       background-size: cover;
@@ -13,36 +9,4 @@
       height: 100%;
       left:0;
       top:0;
-}
-
-.b-bg__teacher{
-      position: relative;
-      left: 10%;
-      top:5%;
-      background-color: none;
-      z-index: 1;
-}
-
-.b-bg__logo{
-      position: fixed;
-      left: 17%;
-      top: 5%;
-      float: left;
-}
-
-.b-bg__text{
-      color: white;
-      top: auto;
-}
-
-.b-bg__text1{
-      color: white;
-      text-decoration: underline;
-      cursor: pointer;
-}
-
-.b-bg__text2{
-      color: white;
-      text-decoration: underline;
-      cursor: pointer;
 }
