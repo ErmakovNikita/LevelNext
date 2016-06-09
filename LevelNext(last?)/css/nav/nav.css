@@ -1,0 +1,16 @@
+.b-nav{
+  color: white;
+}
+
+.b-nav__small{
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 15px
+}
+
+.b-nav__big{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 20px
+}
