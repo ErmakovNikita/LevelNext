@@ -1,8 +1,9 @@
 .b-content{
   background-color: white;
   border-radius: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%;
+  min-width: 980px;
+  max-width: 1280px;
+  margin: auto;
 
 }
 
