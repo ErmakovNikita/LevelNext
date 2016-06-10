@@ -1,7 +1,8 @@
 .b-submit{
-  background: green;
+  background: #8CCB5E;
   border-radius: 5px;
   height: 40px;
   margin-left: -2px;
   cursor: pointer;
+  text-decoration: none;
 }
