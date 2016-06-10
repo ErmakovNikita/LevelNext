@@ -1,7 +1,7 @@
 .b-promo{
   background-color: white;
-  border-radius: 15px;
-  margin: auto;
+  border-radius: 5px;
+  margin:auto;
   height: 50px;
 }
 
@@ -20,10 +20,12 @@
   border-radius: 1px;
   transition: 0.2s;
   background-color: white;
+  box-shadow: 0 0 10px;
 }
 
 .b-promo__button:hover{
   color: orange;
+  box-shadow: 0 0 0px;
 }
 
 .b-promo__text{

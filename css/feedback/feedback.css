@@ -14,12 +14,13 @@
   margin-right: 25%;
   margin-top: 0;
   height: 35px;
+  border-radius: 5px;
 }
 
 .b-feedback__button{
   margin-left: 25%;
   margin-right: 25%;
-  margin-top: 0;
+  margin-top: 5%;
   background: green;
   border-radius: 5px;
   height: 35px;
