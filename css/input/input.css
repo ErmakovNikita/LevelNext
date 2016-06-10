@@ -3,7 +3,9 @@
 }
 
 .b-input__text{
-
+  height: 30px;
+  border-radius: 5px;
+  margin-left: -1%;
 }
 
 .b-input__paragraph{
