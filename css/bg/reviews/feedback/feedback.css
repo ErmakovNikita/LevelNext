@@ -1,0 +1,32 @@
+.b-feedback{
+  background-color: white;
+  border-radius: 15px;
+  margin-left: 60%;
+  margin-right: 10%;
+  text-align: center;
+  white-space: nowrap;
+  min-width: ;
+  max-width: ;
+}
+
+.b-feedback__input{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 0;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.b-feedback__button{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+  background: green;
+  border-radius: 5px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.b-feedback__text{
+  margin: 0;
+}

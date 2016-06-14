@@ -1,0 +1,33 @@
+.b-promo{
+  background-color: white;
+  border-radius: 5px;
+  margin:auto;
+  height: 50px;
+}
+
+.b-promo__button{
+  color: green;
+  cursor: pointer;
+  height: 35px;
+  margin-left: 5%;
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.05s;
+  background-color: white;
+  box-shadow: 0 0 10px #808080;
+}
+
+.b-promo__button:hover{
+  color: orange;
+  box-shadow: 0 0 0px;
+}
+
+.b-promo__text{
+  text-align: center;
+}

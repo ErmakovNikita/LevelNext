@@ -1,0 +1,37 @@
+.b-footer{
+  min-width: 980px;
+  max-width: 1280px;
+  margin: auto;
+}
+.b-footer__button{
+  color: white;
+  background: orange;
+  cursor: pointer;
+}
+
+.b-footer__button:hover{
+  background: white;
+  color: orange;
+}
+
+.b-footer__altnav{
+  margin-left: 250px;
+}
+
+.b-footer__address{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.b-footer__phone{
+  color: white;
+}
+
+.b-footer__ghostbutton{
+  margin-left: 250px;
+}
+
+.b-footer__paragraph{
+  margin-left: 250px;
+}
