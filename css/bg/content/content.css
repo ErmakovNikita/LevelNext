@@ -1,0 +1,53 @@
+.b-content{
+  background-color: white;
+  border-radius: 15px;
+  min-width: 980px;
+  max-width: 1280px;
+  margin: auto;
+
+}
+
+.b-content__bestteachers{
+  text-align:;
+}
+
+.b-content__paragraph{
+
+}
+
+.b-content__h1{
+  text-align: center;
+}
+
+.b-content__sqteasers{
+
+}
+
+.b-content__langteasers{
+  text-align: center;
+}
+
+.b-content__facts{
+  text-align: right;
+}
+
+.b-content__address{
+  color: orange;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.b-content__address:hover{
+  text-decoration: none;
+}
+
+.b-content__sqteaser{
+  background-color: inherit;
+}
+
+.b-content__sqteaser:hover{
+  transform: scale(1.02);
+  transition: all 0.4s linear;
+  box-shadow: 0 0 15px orange;
+  cursor: pointer;
+}

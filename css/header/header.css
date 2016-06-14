@@ -1,12 +1,13 @@
-.b-header__phone{
-  color: white;
-  text-decoration: underline;
-  cursor: pointer;
-  font-size: 20px
-}
-
 .b-header{
   min-width: 980px;
   max-width: 1280px;
   margin: auto;
+}
+
+.b-header__phone{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 17px;
+  margin-left: 550px;
 }

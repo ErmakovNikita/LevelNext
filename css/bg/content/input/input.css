@@ -1,0 +1,18 @@
+.b-input{
+  margin: auto;
+}
+
+.b-input__text{
+  height: 30px;
+  border-radius: 5px;
+  margin-left: -0.5%;
+}
+
+.b-input__text1{
+  height: 30px;
+  border-radius: 5px;
+}
+
+.b-input__paragraph{
+  margin: 0;
+}
