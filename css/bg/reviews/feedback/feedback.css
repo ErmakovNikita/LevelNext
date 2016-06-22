@@ -1,6 +1,7 @@
 .b-feedback{
   background-color: white;
   border-radius: 15px;
+  margin-top: -90px;
   margin-left: 60%;
   margin-right: 10%;
   text-align: center;
@@ -10,23 +11,22 @@
 }
 
 .b-feedback__input{
-  margin-left: 25%;
-  margin-right: 25%;
   margin-top: 0;
   height: 35px;
+  width: 250px;
   border-radius: 5px;
 }
 
 .b-feedback__button{
-  margin-left: 25%;
-  margin-right: 25%;
   margin-top: 5%;
+  width: 250px;
   background: #1DB800;
   color: white;
   border-radius: 5px;
   height: 35px;
   cursor: pointer;
   border-width: 0;
+  margin-bottom: 50px;
 }
 
 .b-feedback__text{
