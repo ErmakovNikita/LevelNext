@@ -4,7 +4,10 @@
   min-width: 980px;
   max-width: 1280px;
   margin: auto;
+}
 
+.b-content__text{
+  margin: 0 auto;
 }
 
 .b-content__bestteachers{
@@ -31,6 +34,8 @@
   background-color: white;
   display: flex;
   margin: auto;
+  max-width: 320px;
+  min-width: 100px;
 }
 
 .b-content__sqteaser--flex:hover{
