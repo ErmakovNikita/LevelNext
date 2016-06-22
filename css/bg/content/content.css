@@ -28,14 +28,15 @@
   width: 85%;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .b-content__sqteaser--flex{
   background-color: white;
   display: flex;
   margin: auto;
-  max-width: 320px;
-  min-width: 100px;
+  width: 30%;
+  height: auto;
 }
 
 .b-content__sqteaser--flex:hover{
