@@ -21,10 +21,12 @@
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 5%;
-  background: green;
+  background: #1DB800;
+  color: white;
   border-radius: 5px;
   height: 35px;
   cursor: pointer;
+  border-width: 0;
 }
 
 .b-feedback__text{

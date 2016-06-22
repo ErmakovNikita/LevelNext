@@ -6,21 +6,22 @@
 }
 
 .b-promo__button{
-  color: green;
+  color: #1DB800;
   cursor: pointer;
   height: 35px;
   margin-left: 5%;
+  margin-top: 6px;
   display: inline-block;
   font-weight: 700;
   text-decoration: none;
-  user-select: none;
   padding: .5em 2em;
   outline: none;
   border: 2px solid;
-  border-radius: 1px;
+  border-radius: 5px;
   transition: 0.05s;
   background-color: white;
-  box-shadow: 0 0 10px #808080;
+  box-shadow: 0 0 5px #808080;
+  border-width: 1px;
 }
 
 .b-promo__button:hover{
