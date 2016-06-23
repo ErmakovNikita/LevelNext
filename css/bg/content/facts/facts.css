@@ -1,0 +1,12 @@
+.b-facts{
+  text-align: right;
+}
+
+.b-facts__text{
+  margin: 0 auto;
+}
+
+.b-facts__header{
+  font-size: 55pt;
+  font-family: ubuntu;
+}

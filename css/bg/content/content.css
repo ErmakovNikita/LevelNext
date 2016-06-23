@@ -6,21 +6,10 @@
   margin: auto;
 }
 
-.b-content__text{
-  margin: 0 auto;
-}
-
-.b-content__bestteachers{
-  text-align:;
-}
-
-.b-content__paragraph{
-
-}
-
 .b-content__h1{
   text-align: center;
   margin: auto;
+  margin-bottom: 35px;
 }
 
 .b-content__sqteasers--flex{
@@ -48,10 +37,6 @@
 
 .b-content__langteasers{
   text-align: center;
-}
-
-.b-content__facts{
-  text-align: right;
 }
 
 .b-content__address{
