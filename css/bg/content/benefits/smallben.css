@@ -1,8 +1,46 @@
-.b-smallben__header{
+.b-smallben1{
+  margin-left: 560px;
+  margin-top: -461px;
+}
+
+.b-smallben2{
+  margin-left: 560px;
+  margin-top: 130px;
+}
+
+.b-smallben__header1{
   font-size: 15pt;
   font-family: ubuntu medium;
+  margin: 0;
+  width: 180px;
+  margin-left: 35%;
+  margin-top: 15px;
+}
+
+.b-smallben__header2{
+  font-size: 15pt;
+  font-family: ubuntu medium;
+  margin: 0;
+  width: 180px;
+  margin-left: 35%;
+  margin-top: 170px;
 }
 
 .b-smallben__paragraph{
-  font-size: 10pt;
+  font-size: 12pt;
+  font-family: ubuntu light;
+  margin: 0;
+  width: 200px;
+  margin-left: 35%;
+}
+
+.b-smallben1__img{
+  float: left;
+  width: 200px;
+}
+
+.b-smallben2__img{
+  float: left;
+  width: 200px;
+  margin-top: -40px;
 }
