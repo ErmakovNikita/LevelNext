@@ -1,12 +1,27 @@
 .b-facts{
-  text-align: right;
+  margin-left: 78%;
 }
 
-.b-facts__text{
-  margin: 0 auto;
+.b-facts__text1{
+  width: 160px;
+  margin-top: 0;
 }
 
-.b-facts__header{
+.b-facts__text2{
+  width: 100px;
+  margin-top: 0;
+}
+
+.b-facts__header1{
   font-size: 55pt;
   font-family: ubuntu;
+  width: 150px;
+  margin-bottom: 0;
+}
+
+.b-facts__header2{
+  font-size: 55pt;
+  font-family: ubuntu;
+  width: 210px;
+  margin-bottom: 0;
 }

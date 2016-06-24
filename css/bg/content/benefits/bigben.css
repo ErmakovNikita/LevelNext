@@ -1,4 +1,21 @@
+.b-bigben{
+  margin-left: 100px;
+}
+
 .b-bigben__header{
   font-size: 25pt;
   font-family: ubuntu medium;
+  margin: 0;
+  width: 350px;
+  text-align: center;
+}
+
+.b-bigben__paragraph{
+  margin: 0;
+  width: 350px;
+  text-align: center;
+}
+
+.b-bigben__img{
+  width: 350px;
 }
