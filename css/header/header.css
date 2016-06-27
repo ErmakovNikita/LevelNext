@@ -12,4 +12,13 @@
   text-align: end;
   margin-top: 70px;
   margin-bottom: -93px;
+  width: 150px;
+  margin-left: 88%;
+}
+
+.b-header__link{
+  margin: 0 auto;
+  margin-left: 96%;
+  margin-bottom: -65px;
+  cursor: pointer;
 }

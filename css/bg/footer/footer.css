@@ -19,6 +19,7 @@
 
 .b-footer__altnav{
   margin-left: 250px;
+  margin-top: -25px;
 }
 
 .b-footer__address{
@@ -38,4 +39,8 @@
 
 .b-footer__paragraph{
   margin-left: 250px;
+}
+
+.b-footer__altlogo{
+  margin-top: 25px;
 }
