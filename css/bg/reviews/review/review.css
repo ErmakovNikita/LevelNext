@@ -1,7 +1,15 @@
 .b-review{
   width: 50%;
+  margin-top: 25px;
 }
 
 .b-review__h1{
   margin: 0;
+  color: white;
+}
+
+.b-review__paragraph{
+  border: white solid;
+  border-radius: 10px;
+  border-width: 1px;
 }
