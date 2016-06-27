@@ -18,17 +18,20 @@
 .b-review__b1{
   margin-left: 20%;
   font-family: ubuntu medium;
+  src: url(css/fonts/Ubuntu-Medium.ttf);
   font-size: 12pt;
 }
 
 .b-review__b2{
   font-family: ubuntu medium;
+  src: url(css/fonts/Ubuntu-Medium.ttf);
   font-size: 12pt;
   margin-left: 5%;
 }
 
 .b-review__altb{
   font-family: ubuntu light;
+  src: url(css/fonts/Ubuntu-Light.ttf);
   margin-left: 20%;
   margin-top: -10px;
   font-size: 10pt;
@@ -37,5 +40,6 @@
 .b-review__paragraph{
   margin-left: 5%;
   font-family: ubuntu light;
+  src: url(css/fonts/Ubuntu-Light.ttf);
   font-size: 10pt;
 }

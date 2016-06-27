@@ -13,6 +13,7 @@
 .b-smallben__header1{
   font-size: 15pt;
   font-family: ubuntu medium;
+  src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
   width: 180px;
   margin-left: 40%;
@@ -22,6 +23,7 @@
 .b-smallben__header2{
   font-size: 15pt;
   font-family: ubuntu medium;
+  src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
   width: 180px;
   margin-left: 40%;
@@ -31,6 +33,7 @@
 .b-smallben__paragraph{
   font-size: 12pt;
   font-family: ubuntu light;
+  src: url(css/fonts/Ubuntu-Light.ttf);
   margin: 0;
   width: 200px;
   margin-left: 40%;

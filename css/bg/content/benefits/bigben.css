@@ -5,6 +5,7 @@
 .b-bigben__header{
   font-size: 25pt;
   font-family: ubuntu medium;
+  src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
   width: 350px;
   text-align: center;
@@ -24,4 +25,5 @@
 .b-bigben__altimg{
   margin-left: 7%;
   margin-top: 15px;
+  cursor: pointer;
 }
