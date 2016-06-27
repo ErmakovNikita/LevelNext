@@ -1,5 +1,5 @@
 .b-bigben{
-  margin-left: 100px;
+  margin-left: 5%;
 }
 
 .b-bigben__header{
@@ -18,4 +18,10 @@
 
 .b-bigben__img{
   width: 350px;
+}
+
+
+.b-bigben__altimg{
+  margin-left: 7%;
+  margin-top: 15px;
 }

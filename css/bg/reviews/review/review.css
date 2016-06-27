@@ -8,8 +8,34 @@
   color: white;
 }
 
-.b-review__paragraph{
+.b-review__rev{
   border: white solid;
   border-radius: 10px;
   border-width: 1px;
+  color: white;
+}
+
+.b-review__b1{
+  margin-left: 20%;
+  font-family: ubuntu medium;
+  font-size: 12pt;
+}
+
+.b-review__b2{
+  font-family: ubuntu medium;
+  font-size: 12pt;
+  margin-left: 5%;
+}
+
+.b-review__altb{
+  font-family: ubuntu light;
+  margin-left: 20%;
+  margin-top: -10px;
+  font-size: 10pt;
+}
+
+.b-review__paragraph{
+  margin-left: 5%;
+  font-family: ubuntu light;
+  font-size: 10pt;
 }

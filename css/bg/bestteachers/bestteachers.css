@@ -8,3 +8,26 @@
   font-size: 12pt;
   width: 705px;
 }
+
+.b-bestteachers__img{
+  width: 130px;
+}
+
+.b-bestteachers__imgs{
+  border-radius: 270px;
+  text-align: center;
+  margin-left: 50%;
+  width: 100px;
+  margin-top: -120px;
+  height: 100px;
+  border: solid 2px;
+  border-color: orange;
+  cursor: pointer;
+}
+
+.b-bestteachers__imgs--text{
+  margin-top: 33px;
+  font-family: ubuntu light;
+  font-size: 11pt;
+  color: orange;
+}
