@@ -39,6 +39,12 @@
 
 .b-footer__paragraph{
   margin-left: 250px;
+  color: white;
+  width: 35%;
+  margin-top: -60px;
+  margin-bottom: 55px;
+  font-family: ubuntu light;
+  font-size: 11pt;
 }
 
 .b-footer__altlogo{

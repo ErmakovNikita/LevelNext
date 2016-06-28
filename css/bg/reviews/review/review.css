@@ -13,6 +13,7 @@
   border-radius: 10px;
   border-width: 1px;
   color: white;
+  position: relative;
 }
 
 .b-review__b1{
@@ -20,6 +21,7 @@
   font-family: ubuntu medium;
   src: url(css/fonts/Ubuntu-Medium.ttf);
   font-size: 12pt;
+  margin-top: 35px;
 }
 
 .b-review__b2{
@@ -27,13 +29,14 @@
   src: url(css/fonts/Ubuntu-Medium.ttf);
   font-size: 12pt;
   margin-left: 5%;
+  margin-top: 35px;
 }
 
 .b-review__altb{
   font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Light.ttf);
   margin-left: 20%;
-  margin-top: -10px;
+  margin-top: -5px;
   font-size: 10pt;
 }
 
@@ -42,4 +45,23 @@
   font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Light.ttf);
   font-size: 10pt;
+  margin-top: 35px;
+}
+
+.b-review__userpic{
+  width: 55px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.b-review__userpics{
+  margin-left: 31%;
+  margin-top: 50px;
+  margin-bottom: -30px;
+}
+
+.b-review__img{
+  margin-bottom: -100px;
+  width: 12%;
+  margin-left: 6%;
 }
