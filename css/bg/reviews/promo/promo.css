@@ -1,16 +1,17 @@
 .b-promo{
   background-color: white;
   border-radius: 5px;
-  margin:auto;
-  height: 50px;
+  margin: auto;
+  height: 90px;
+  margin-top: 90px;
 }
 
 .b-promo__button{
   color: #1DB800;
   cursor: pointer;
   height: 35px;
-  margin-left: 5%;
-  margin-top: 6px;
+  margin-left: 65%;
+  margin-top: 30px;
   display: inline-block;
   font-weight: 700;
   text-decoration: none;
@@ -30,5 +31,16 @@
 }
 
 .b-promo__text{
-  text-align: center;
+  margin-left: 30%;
+  margin-top: -47px;
+  width: 32%;
+  font-family: ubuntu medium;
+  font-size: 14pt;
+}
+
+.b-promo__img{
+  width: 13%;
+  margin-left: 15%;
+  margin-top: -35px;
+  margin-bottom: 9px;
 }

@@ -7,7 +7,7 @@
       </head>
     <body id="bg">
       <header class="b-header">
-        <img class="b-header__link" src="css/im/vk.png" href="https://vk.com" target="_blank">
+        <a href="https://vk.com" target="_blank"><img class="b-header__link" src="css/im/vk.png" /></a>
         <p class="b-header__phone">+7 (495) 767-50-57</p>
         <nav class="b-nav">
           <nav class="b-nav__smalls">
@@ -122,7 +122,7 @@
           </div>
         </div>
         <div class="b-feedback">
-          <h3>Записаться на бесплатный урок</h3>
+          <h3 class="b-feedback__header">Записаться на бесплатный урок</h3>
             <p class="b-feedback__text">Имя</p>
           <input type="text" class="b-feedback__input">
             <br>
@@ -134,14 +134,16 @@
             <br><input type="button" class="b-feedback__button" value="Записаться">
         </div>
         <div class="b-promo">
-          <h4 class="b-promo__text">  <img src="css/im/UoC.png"> Готовьтесь к экзаменам Cambridge и ТКТ <input type="button" class="b-promo__button" value="Все экзамены"></h4>
+          <input type="button" class="b-promo__button" value="Все экзамены">
+          <img class="b-promo__img" src="css/im/UoC.png" />
+          <p class="b-promo__text">Готовьтесь к экзаменам Cambridge и ТКТ</p>
         </div>
       </div>
       <div class="b-news">
         <article></article>
       </div>
       <footer class="b-footer">
-        <nav>
+        <nav class="b-footer__altnavs">
           <img class="b-footer__altlogo" src="css/im/altlogo.png">
           <div class="b-footer__altnav">
             <a class="b-altnav">О НАС</a>
@@ -150,7 +152,7 @@
             <a class="b-altnav">ВАКАНСИИ</a>
           </div>
         </nav>
-        <div>
+        <div class="b-footer__contacts">
           <p class="b-footer__phone">8 (495) 767-50-57</p>
           <p class="b-footer__phone">8 (495) 502-89-95</p>
           <a class="b-footer__address">Наши адреса</a>

@@ -22,6 +22,10 @@
   margin-top: -25px;
 }
 
+.b-footer__altnavs{
+  margin-top: 15px;
+}
+
 .b-footer__address{
   color: white;
   text-decoration: underline;
@@ -30,23 +34,29 @@
 
 .b-footer__phone{
   color: white;
+  width: 10%;
 }
 
 .b-footer__ghostbutton{
   margin-left: 250px;
   margin-bottom: 100px;
+  width: 36%;
 }
 
 .b-footer__paragraph{
   margin-left: 250px;
   color: white;
   width: 35%;
-  margin-top: -60px;
-  margin-bottom: 55px;
+  margin-top: -90px;
+  margin-bottom: 70px;
   font-family: ubuntu light;
   font-size: 11pt;
 }
 
 .b-footer__altlogo{
   margin-top: 25px;
+}
+
+.b-footer__contacts{
+  margin-top: 35px;
 }
