@@ -8,17 +8,18 @@
   color: white;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 14pt;
+  font-size: 13pt;
   text-align: end;
-  margin-top: 70px;
-  margin-bottom: -93px;
-  width: 150px;
+  margin-top: 55px;
+  margin-bottom: -95px;
+  width: 12%;
   margin-left: 88%;
+  font-family: ubuntu medium;
 }
 
 .b-header__link{
   margin: 0 auto;
   margin-left: 96%;
-  margin-bottom: -65px;
+  margin-bottom: -40px;
   cursor: pointer;
 }

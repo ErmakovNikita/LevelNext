@@ -1,6 +1,6 @@
 .b-content{
   background-color: white;
-  border-radius: 15px;
+  border-radius: 10px;
   min-width: 980px;
   max-width: 1280px;
   margin: auto;
@@ -8,6 +8,8 @@
 }
 
 .b-content__h1{
+  font-family: ubuntu light;
+  font-size: 25pt;
   text-align: center;
   margin: auto;
   margin-bottom: 35px;

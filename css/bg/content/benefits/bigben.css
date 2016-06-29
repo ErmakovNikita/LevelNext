@@ -3,22 +3,24 @@
 }
 
 .b-bigben__header{
-  font-size: 25pt;
-  font-family: ubuntu medium;
+  font-size: 27pt;
+  font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
-  width: 350px;
+  width: 30%;
   text-align: center;
 }
 
 .b-bigben__paragraph{
   margin: 0;
-  width: 350px;
-  text-align: center;
+  margin-left: -10px;
+  width: 35%;
+  font-family: ubuntu light;
+  font-size: 14pt;
 }
 
 .b-bigben__img{
-  width: 350px;
+  width: 30%;
 }
 
 
@@ -26,4 +28,5 @@
   margin-left: 7%;
   margin-top: 15px;
   cursor: pointer;
+  width: 15%;
 }

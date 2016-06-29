@@ -1,28 +1,28 @@
 .b-facts{
-  margin-left: 83%;
+  margin-left: 75%;
   margin-top: -300px;
 }
 
 .b-facts__text1{
-  width: 160px;
+  width: 45%;
   margin-top: 0;
 }
 
 .b-facts__text2{
-  width: 100px;
+  width: 40%;
   margin-top: 0;
 }
 
 .b-facts__header1{
-  font-size: 50pt;
-  font-family: ubuntu;
-  width: 150px;
+  font-size: 45pt;
+  font-family: ubuntu light;
+  width: 50%;
   margin-bottom: 0;
 }
 
 .b-facts__header2{
-  font-size: 50pt;
-  font-family: ubuntu;
-  width: 210px;
+  font-size: 45pt;
+  font-family: ubuntu light;
+  width: 100%;
   margin-bottom: 0;
 }
