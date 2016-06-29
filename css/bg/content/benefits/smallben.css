@@ -11,21 +11,21 @@
 }
 
 .b-smallben__header1{
-  font-size: 15pt;
-  font-family: ubuntu medium;
+  font-size: 17pt;
+  font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
-  width: 180px;
+  width: 30%;
   margin-left: 40%;
   margin-top: 15px;
 }
 
 .b-smallben__header2{
-  font-size: 15pt;
-  font-family: ubuntu medium;
+  font-size: 17pt;
+  font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Medium.ttf);
   margin: 0;
-  width: 180px;
+  width: 40%;
   margin-left: 40%;
   margin-top: 170px;
 }
@@ -35,17 +35,17 @@
   font-family: ubuntu light;
   src: url(css/fonts/Ubuntu-Light.ttf);
   margin: 0;
-  width: 200px;
+  width: 35%;
   margin-left: 40%;
 }
 
 .b-smallben1__img{
   float: left;
-  width: 180px;
+  width: 30%;
 }
 
 .b-smallben2__img{
   float: left;
-  width: 180px;
+  width: 30%;
   margin-top: -40px;
 }

@@ -12,13 +12,13 @@
 .b-feedback__input{
   margin-bottom: 15px;
   height: 35px;
-  width: 250px;
+  width: 80%;
   border-radius: 5px;
 }
 
 .b-feedback__button{
   margin-top: 25px;
-  width: 250px;
+  width: 80%;
   background: #1DB800;
   color: white;
   border-radius: 5px;
@@ -29,8 +29,12 @@
 
 .b-feedback__text{
   margin: 0;
+  text-align: start;
+  margin-left: 10%;
 }
 
 .b-feedback__header{
   padding-top: 15px;
+  font-size: 15pt;
+  font-family: ubuntu light;
 }
