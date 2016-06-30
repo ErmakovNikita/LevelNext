@@ -13,6 +13,7 @@
   border: 1px solid;
   font-family: ubuntu medium;
   font-size: 12pt;
+  outline: none;
 }
 
 .b-footer__button:hover{

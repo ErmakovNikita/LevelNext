@@ -15,12 +15,14 @@
   height: 30px;
   border-radius: 5px;
   width: 15%;
+  outline: none;
 }
 
 .b-input__text1{
   height: 30px;
   border-radius: 5px;
   width: 15%;
+  outline: none;
 }
 
 .b-input__paragraph--flex{

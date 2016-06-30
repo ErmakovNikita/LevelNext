@@ -4,4 +4,9 @@
   cursor: pointer;
   font-size: 12pt;
   font-family: ubuntu medium;
+  margin-right: 1%;
+}
+
+.b-altnav:last-child{
+  margin-right: 0;
 }
