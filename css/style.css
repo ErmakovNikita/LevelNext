@@ -1,30 +1,20 @@
 @import "bg/bg.css";
 @import "header/header.css";
 @import "header/nav/nav.css";
-@import "submit/submit.css";
-@import "input/input.css";
-@import "footer/footer.css";
-@import "promo/promo.css";
-@import "altnav/altnav.css";
-@import "content/content.css";
-@import "feedback/feedback.css";
-@import "news/news.css";
-@import "reviews/reviews.css";
+@import "bg/submit/submit.css";
+@import "bg/content/input/input.css";
+@import "bg/footer/footer.css";
+@import "bg/reviews/promo/promo.css";
+@import "bg/footer/altnav/altnav.css";
+@import "bg/content/content.css";
+@import "bg/reviews/feedback/feedback.css";
+@import "bg/news/news.css";
+@import "bg/reviews/reviews.css";
 @import "bg/logo.css";
-@import "benefits/benefits.css";
-@import "facts/facts.css";
-@import "benefits/bigben.css";
-@import "benefits/smallben.css";
-@import "bestteachers/bestteachers.css";
-@import "langteasers/langteasers.css";
-@import "review/review.css";
-@import "nav/nav.css";
-@font-face {
-  font-family: ubuntu medium
-  src: url("../fonts/Ubuntu-Medium.ttf");
- }
-
- @font-face {
-   font-family: ubuntu light
-   src: url("../fonts/Ubuntu-Light.ttf");
-  }
+@import "bg/content/benefits/benefits.css";
+@import "bg/content/facts/facts.css";
+@import "bg/content/benefits/bigben.css";
+@import "bg/content/benefits/smallben.css";
+@import "bg/bestteachers/bestteachers.css";
+@import "bg/content/langteasers/langteasers.css";
+@import "bg/reviews/review/review.css"

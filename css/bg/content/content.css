@@ -24,61 +24,19 @@
   align-items: center;
 }
 
-.b-content__sqteaser1--flex{
+.b-content__sqteaser--flex{
   background-color: white;
   display: flex;
   margin: auto;
   width: 30%;
-  height: 165px;
-  background-image:url("../../../img/preschool.png");
+  height: auto;
 }
 
-.b-content__sqteaser2--flex{
-  background-color: white;
-  display: flex;
-  margin: auto;
-  width: 30%;
-  height: 165px;
-  background-image:url("../../../img/school.png");
-}
-
-.b-content__sqteaser3--flex{
-  background-color: white;
-  display: flex;
-  margin: auto;
-  width: 30%;
-  height: 165px;
-  background-image:url("../../../img/adults.png");
-}
-
-.b-content__sqteaser1--flex:hover{
+.b-content__sqteaser--flex:hover{
   transform: scale(1.02);
-  transition: all 0.1s linear;
+  transition: all 0.4s linear;
   box-shadow: 0 0 15px orange;
   cursor: pointer;
-}
-
-.b-content__sqteaser2--flex:hover{
-  transform: scale(1.02);
-  transition: all 0.1s linear;
-  box-shadow: 0 0 15px orange;
-  cursor: pointer;
-}
-
-.b-content__sqteaser3--flex:hover{
-  transform: scale(1.02);
-  transition: all 0.1s linear;
-  box-shadow: 0 0 15px orange;
-  cursor: pointer;
-}
-
-.b-content__text{
-  margin: 0 auto;
-  margin-top: 135px;
-  margin-left: 2%;
-  color: white;
-  font-family: ubuntu medium;
-  font-size: 14pt;
 }
 
 .b-content__langteasers{
