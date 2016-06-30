@@ -1,10 +1,74 @@
+.b-footer{
+  min-width: 980px;
+  max-width: 1280px;
+  margin: auto;
+}
+
 .b-footer__button{
   color: white;
-  background: orange;
+  background: #FF9900;
   cursor: pointer;
+  border-radius: 3px;
+  height: 35px;
+  border: 1px solid;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 12pt;
+  outline: none;
 }
 
 .b-footer__button:hover{
   background: white;
-  color: orange;
+  color: #FF9900;
+}
+
+.b-footer__altnav{
+  margin-left: 250px;
+  margin-top: -40px;
+}
+
+.b-footer__altnavs{
+  margin-top: 15px;
+}
+
+.b-footer__address{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  font-size: 14pt;
+}
+
+.b-footer__phone{
+  color: white;
+  width: 12%;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 14pt;
+}
+
+.b-footer__ghostbutton{
+  margin-left: 250px;
+  margin-bottom: 100px;
+  width: 36%;
+}
+
+.b-footer__paragraph{
+  margin-left: 250px;
+  color: white;
+  width: 40%;
+  margin-top: -90px;
+  margin-bottom: 70px;
+  font-family: ubuntu light;
+  font-size: 12pt;
+}
+
+.b-footer__altlogo{
+  margin-top: 25px;
+  width: 13%;
+}
+
+.b-footer__contacts{
+  margin-top: 55px;
 }

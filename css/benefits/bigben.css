@@ -1,0 +1,33 @@
+.b-bigben{
+  margin-left: 5%;
+}
+
+.b-bigben__header{
+  font-size: 27pt;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  margin: 0;
+  width: 30%;
+  text-align: center;
+}
+
+.b-bigben__paragraph{
+  margin: 0;
+  margin-left: -10px;
+  width: 35%;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  font-size: 14pt;
+}
+
+.b-bigben__img{
+  width: 30%;
+}
+
+
+.b-bigben__altimg{
+  margin-left: 7%;
+  margin-top: 15px;
+  cursor: pointer;
+  width: 15%;
+}

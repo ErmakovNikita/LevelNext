@@ -1,24 +1,102 @@
 .b-content{
   background-color: white;
-  border-radius: 15px;
+  border-radius: 10px;
   min-width: 980px;
   max-width: 1280px;
   margin: auto;
-
-}
-
-.b-content__bestteachers{
-  text-align:;
+  height: 1640px;
 }
 
 .b-content__h1{
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  font-size: 25pt;
   text-align: center;
+  margin: auto;
+  margin-bottom: 35px;
+  padding-top: 20px;
 }
 
-.b-content__sqteasers{
+.b-content__sqteasers--flex{
+  margin: 0 auto;
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.b-content__sqteaser1--flex{
+  background-color: white;
+  display: flex;
+  margin: auto;
+  width: 30%;
+  height: 165px;
+  background-image:url("../../img/preschool.png");
+}
+
+.b-content__sqteaser2--flex{
+  background-color: white;
+  display: flex;
+  margin: auto;
+  width: 30%;
+  height: 165px;
+  background-image:url("../../img/school.png");
+}
+
+.b-content__sqteaser3--flex{
+  background-color: white;
+  display: flex;
+  margin: auto;
+  width: 30%;
+  height: 165px;
+  background-image:url("../../img/adults.png");
+}
+
+.b-content__sqteaser1--flex:hover{
+  transform: scale(1.02);
+  transition: all 0.1s linear;
+  box-shadow: 0 0 15px orange;
+  cursor: pointer;
+}
+
+.b-content__sqteaser2--flex:hover{
+  transform: scale(1.02);
+  transition: all 0.1s linear;
+  box-shadow: 0 0 15px orange;
+  cursor: pointer;
+}
+
+.b-content__sqteaser3--flex:hover{
+  transform: scale(1.02);
+  transition: all 0.1s linear;
+  box-shadow: 0 0 15px orange;
+  cursor: pointer;
+}
+
+.b-content__text{
+  margin: 0 auto;
+  margin-top: 135px;
+  margin-left: 2%;
+  color: white;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 14pt;
 }
 
 .b-content__langteasers{
+  text-align: center;
+}
 
+.b-content__address{
+  color: orange;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.b-content__address:hover{
+  text-decoration: none;
+}
+
+.b-content__sqteaser:last-child{
+  margin-right: 0;
 }

@@ -1,26 +1,28 @@
 .b-promo{
   background-color: white;
   border-radius: 5px;
-  margin:auto;
-  height: 50px;
+  margin: auto;
+  height: 90px;
+  margin-top: 90px;
 }
 
 .b-promo__button{
-  color: green;
+  color: #1DB800;
   cursor: pointer;
   height: 35px;
-  margin-left: 5%;
+  margin-left: 65%;
+  margin-top: 30px;
   display: inline-block;
   font-weight: 700;
   text-decoration: none;
-  user-select: none;
   padding: .5em 2em;
   outline: none;
   border: 2px solid;
-  border-radius: 1px;
-  transition: 0.2s;
+  border-radius: 5px;
+  transition: 0.05s;
   background-color: white;
-  box-shadow: 0 0 10px;
+  box-shadow: 0 0 5px #808080;
+  border-width: 1px;
 }
 
 .b-promo__button:hover{
@@ -29,5 +31,17 @@
 }
 
 .b-promo__text{
-  text-align: center;
+  margin-left: 30%;
+  margin-top: -47px;
+  width: 32%;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 14pt;
+}
+
+.b-promo__img{
+  width: 13%;
+  margin-left: 15%;
+  margin-top: -35px;
+  margin-bottom: 9px;
 }
