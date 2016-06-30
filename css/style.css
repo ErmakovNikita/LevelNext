@@ -17,7 +17,7 @@
 @import "bg/content/benefits/smallben.css";
 @import "bg/bestteachers/bestteachers.css";
 @import "bg/content/langteasers/langteasers.css";
-@import "bg/reviews/review/review.css"
+@import "bg/reviews/review/review.css";
 @font-face {
   font-family: "ubuntu medium";
   src: url("../fonts/Ubuntu-Medium.ttf");
