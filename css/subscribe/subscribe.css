@@ -1,4 +1,5 @@
-.b-subscribe{
+.b-subscribe--flex{
+  display: flex;
   margin-left: 30%;
 }
 

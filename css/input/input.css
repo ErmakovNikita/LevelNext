@@ -1,13 +1,33 @@
 .b-input{
   margin: auto;
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+
+.b-input__header{
+  width: 126px;
+  margin: 0;
+  font-size: 11pt;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
 }
 
 .b-input__text{
   height: 30px;
   border-radius: 5px;
-  margin-left: -1%;
+  width: 15%;
+  outline: none;
 }
 
-.b-input__paragraph{
-  margin: 0;
+.b-input__text1{
+  height: 30px;
+  border-radius: 5px;
+  width: 15%;
+  outline: none;
+}
+
+.b-input__paragraph--flex{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }

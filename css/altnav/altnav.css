@@ -1,0 +1,13 @@
+.b-altnav{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 12pt;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  margin-right: 1%;
+}
+
+.b-altnav:last-child{
+  margin-right: 0;
+}

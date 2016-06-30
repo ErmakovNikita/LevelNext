@@ -1,0 +1,22 @@
+.b-langteasers--flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 35px;
+  margin-bottom: 50px;
+}
+
+.b-langteasers__langteaser--flex{
+  background-color: white;
+  display: flex;
+  margin: auto;
+  width: 9%;
+  height: auto;
+}
+
+.b-langteasers__langteaser--flex:last-child{
+  margin-right: 0;
+}

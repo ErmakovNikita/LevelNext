@@ -1,32 +1,54 @@
 .b-feedback{
   background-color: white;
   border-radius: 15px;
+  margin-top: -400px;
   margin-left: 60%;
   margin-right: 10%;
   text-align: center;
   white-space: nowrap;
-  min-width: ;
-  max-width: ;
+  height: 380px;
 }
 
 .b-feedback__input{
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-top: 0;
+  margin-bottom: 15px;
   height: 35px;
+  width: 65%;
   border-radius: 5px;
+  outline: none;
 }
 
 .b-feedback__button{
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-top: 5%;
-  background: green;
-  border-radius: 5px;
-  height: 35px;
+  color: white;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 11pt;
   cursor: pointer;
+  padding: 3px 7px;
+  border-radius: 5px;
+  border: 1px solid #666;
+  width: 67%;
+  height: 40px;
+  outline: none;
+  background: linear-gradient(#9ec970 , #70a540 75%);
+}
+
+.b-feedback__button:hover{
+  background: linear-gradient(#70a540 75%, #9ec970 );
 }
 
 .b-feedback__text{
   margin: 0;
+  text-align: start;
+  margin-left: 16%;
+  opacity: 0.5;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 11pt;
+}
+
+.b-feedback__header{
+  padding-top: 15px;
+  font-size: 15pt;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
 }

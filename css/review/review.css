@@ -1,3 +1,71 @@
 .b-review{
   width: 50%;
+  margin-top: 25px;
+}
+
+.b-review__h1{
+  margin: 0;
+  color: white;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  font-size: 20pt;
+  margin-bottom: 20px
+}
+
+.b-review__rev{
+  border: white solid;
+  border-radius: 10px;
+  border-width: 1px;
+  color: white;
+  position: relative;
+}
+
+.b-review__b1{
+  margin-left: 20%;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 12pt;
+  margin-top: 35px;
+}
+
+.b-review__b2{
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 12pt;
+  margin-left: 5%;
+  margin-top: 35px;
+}
+
+.b-review__altb{
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  margin-left: 20%;
+  margin-top: -5px;
+  font-size: 10pt;
+}
+
+.b-review__paragraph{
+  margin-left: 5%;
+  font-family: ubuntu light;
+  src: url("fonts/Ubuntu-Light.ttf");
+  font-size: 10pt;
+  margin-top: 35px;
+}
+
+.b-review__userpic{
+  width: 55px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.b-review__userpics{
+  margin-left: 31%;
+  margin-top: 50px;
+  margin-bottom: -30px;
+}
+
+.b-review__img{
+  margin-bottom: -100px;
+  width: 12%;
+  margin-left: 6%;
 }

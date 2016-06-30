@@ -1,16 +1,39 @@
 .b-nav{
   color: white;
+  margin-bottom: -90px;
+  margin-top: 50px;
+  margin-left: 35%;
+  width: 45%;
 }
 
 .b-nav__small{
   text-decoration: underline;
   cursor: pointer;
-  font-size: 15px
+  margin-bottom: 10px;
+  margin-right: 25px;
+  font-size: 11pt;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+}
+
+.b-nav__small:last-child{
+  margin-right: 0;
+}
+
+.b-nav__smalls{
+  margin-bottom: 10px;
 }
 
 .b-nav__big{
   color: white;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 20px
+  margin-right: 20px;
+  font-size: 12pt;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+}
+
+.b-nav__big:last-child{
+  margin-right: 0;
 }

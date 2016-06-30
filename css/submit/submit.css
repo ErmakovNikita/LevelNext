@@ -1,8 +1,17 @@
 .b-submit{
-  background: #8CCB5E;
-  border-radius: 5px;
-  height: 40px;
-  margin-left: -2px;
+  color: white;
+  font-family: ubuntu medium;
+  src: url("fonts/Ubuntu-Medium.ttf");
+  font-size: 11pt;
   cursor: pointer;
-  text-decoration: none;
+  padding: 3px 7px;
+  border-radius: 5px;
+  border: 1px solid #666;
+  width: 25%;
+  outline: none;
+  background: linear-gradient(#9ec970 , #70a540 75%);
+}
+
+.b-submit:hover{
+  background: linear-gradient(#70a540 75%, #9ec970);
 }
