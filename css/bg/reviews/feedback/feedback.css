@@ -12,36 +12,25 @@
 .b-feedback__input{
   margin-bottom: 15px;
   height: 35px;
-  width: 65%;
+  width: 80%;
   border-radius: 5px;
-  outline: none;
 }
 
 .b-feedback__button{
+  margin-top: 25px;
+  width: 80%;
+  background: #1DB800;
   color: white;
-  font-family: ubuntu medium;
-  font-size: 11pt;
-  cursor: pointer;
-  padding: 3px 7px;
   border-radius: 5px;
-  border: 1px solid #666;
-  width: 67%;
-  height: 40px;
-  outline: none;
-  background: linear-gradient(#9ec970 , #70a540 75%);
-}
-
-.b-feedback__button:hover{
-  background: linear-gradient(#70a540 75%, #9ec970 );
+  height: 35px;
+  cursor: pointer;
+  border-width: 0;
 }
 
 .b-feedback__text{
   margin: 0;
   text-align: start;
-  margin-left: 16%;
-  opacity: 0.5;
-  font-family: ubuntu medium;
-  font-size: 11pt;
+  margin-left: 10%;
 }
 
 .b-feedback__header{
