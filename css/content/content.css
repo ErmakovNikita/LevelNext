@@ -9,7 +9,6 @@
 
 .b-content__h1{
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
   font-size: 25pt;
   text-align: center;
   margin: auto;
@@ -79,7 +78,6 @@
   margin-left: 2%;
   color: white;
   font-family: ubuntu medium;
-  src: url("fonts/Ubuntu-Medium.ttf");
   font-size: 14pt;
 }
 

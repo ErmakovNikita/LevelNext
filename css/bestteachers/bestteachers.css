@@ -7,7 +7,6 @@
 .b-bestteachers__paragraph{
   font-size: 11pt;
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
   width: 56%;
 }
 
@@ -33,13 +32,11 @@
 .b-bestteachers__imgs--text{
   margin-top: 33px;
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
   font-size: 11pt;
   color: orange;
 }
 
 .b-bestteachers__header{
   font-family: ubuntu medium;
-  src: url("fonts/Ubuntu-Medium.ttf");
   font-size: 15pt;
 }

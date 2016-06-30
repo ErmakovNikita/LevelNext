@@ -21,10 +21,10 @@
 @import "nav/nav.css";
 @font-face {
   font-family: ubuntu medium
-  src: url("fonts/Ubuntu-Medium.ttf");
+  src: url("../fonts/Ubuntu-Medium.ttf");
  }
 
  @font-face {
    font-family: ubuntu light
-   src: url("fonts/Ubuntu-Light.ttf");
+   src: url("../fonts/Ubuntu-Light.ttf");
   }

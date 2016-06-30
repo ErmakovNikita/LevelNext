@@ -16,7 +16,6 @@
 .b-facts__header1{
   font-size: 45pt;
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
   width: 50%;
   margin-bottom: 0;
 }
@@ -24,7 +23,6 @@
 .b-facts__header2{
   font-size: 45pt;
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
   width: 100%;
   margin-bottom: 0;
 }

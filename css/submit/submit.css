@@ -1,13 +1,13 @@
 .b-submit{
   color: white;
   font-family: ubuntu medium;
-  src: url("fonts/Ubuntu-Medium.ttf");
   font-size: 11pt;
   cursor: pointer;
   padding: 3px 7px;
   border-radius: 5px;
   border: 1px solid #666;
   width: 25%;
+  height: 35px;
   outline: none;
   background: linear-gradient(#9ec970 , #70a540 75%);
 }
