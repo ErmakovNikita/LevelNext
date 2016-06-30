@@ -20,7 +20,6 @@
 .b-feedback__button{
   color: white;
   font-family: ubuntu medium;
-  src: url("fonts/Ubuntu-Medium.ttf");
   font-size: 11pt;
   cursor: pointer;
   padding: 3px 7px;
@@ -42,7 +41,6 @@
   margin-left: 16%;
   opacity: 0.5;
   font-family: ubuntu medium;
-  src: url("fonts/Ubuntu-Medium.ttf");
   font-size: 11pt;
 }
 
@@ -50,5 +48,4 @@
   padding-top: 15px;
   font-size: 15pt;
   font-family: ubuntu light;
-  src: url("fonts/Ubuntu-Light.ttf");
 }
