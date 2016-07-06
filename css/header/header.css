@@ -1,5 +1,5 @@
 .b-header{
-  
+
 }
 
 .b-header__phone {
@@ -10,7 +10,7 @@
   text-align: right;
   margin-top: 75px;
   position: absolute;
-  right: 16px;
+  margin-left: 1095px;
   width: 170px;
   font-family: ubuntu medium;
 }
