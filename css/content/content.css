@@ -6,12 +6,14 @@
 
 .b-content__h1{
   font-family: ubuntu light;
-  font-size: 25pt;
+  font-size: 24pt;
   color: #424242;
   text-align: center;
-  margin: auto;
+  margin: 0 auto;
   margin-bottom: 35px;
-  padding-top: 20px;
+  padding-top: 31px;
+  margin-left: -4px;
+  letter-spacing: 2px;
 }
 
 .b-content__sqteasers--flex{
@@ -72,11 +74,11 @@
 
 .b-content__text{
   margin: 0 auto;
-  margin-top: 135px;
-  margin-left: 2%;
+  margin-top: 120px;
+  margin-left: 15px;
   color: white;
   font-family: ubuntu medium;
-  font-size: 14pt;
+  font-size: 18pt;
 }
 
 .b-content__langteasers{

@@ -1,33 +1,36 @@
 .b-feedback{
   background-color: white;
-  border-radius: 15px;
-  margin-top: -400px;
-  margin-left: 60%;
-  margin-right: 10%;
+  border-radius: 5px;
+  margin-top: -480px;
+  margin-left: 795px;
+  margin-right: 95px;
   text-align: center;
   white-space: nowrap;
-  height: 380px;
+  height: 460px;
 }
 
 .b-feedback__input{
-  margin-bottom: 15px;
   height: 35px;
-  width: 65%;
+  width: 245px;
   border-radius: 5px;
   outline: none;
+  margin-bottom: 15px;
+  margin-top: 10px;
 }
 
 .b-feedback__button{
   color: white;
   font-family: ubuntu medium;
-  font-size: 11pt;
+  font-size: 15pt;
   cursor: pointer;
   padding: 3px 7px;
   border-radius: 5px;
   border: 1px solid #666;
-  width: 67%;
-  height: 45px;
+  width: 245px;
+  height: 50px;
+  margin-left: -5px;
   outline: none;
+  margin-top: 6px;
   background: linear-gradient(#a9d17b , #6fa43f 90%);
 }
 
@@ -38,14 +41,16 @@
 .b-feedback__text{
   margin: 0;
   text-align: start;
-  margin-left: 16%;
+  margin-left: 71px;
   opacity: 0.5;
-  font-family: ubuntu medium;
-  font-size: 11pt;
+  font-family: ubuntu light;
+  font-size: 10pt;
 }
 
 .b-feedback__header{
-  padding-top: 15px;
-  font-size: 15pt;
+  padding-top: 27px;
+  font-size: 16pt;
   font-family: ubuntu light;
+  letter-spacing: 1px;
+  margin-bottom: 38px;
 }

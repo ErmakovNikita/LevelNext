@@ -1,14 +1,18 @@
 .b-bigben{
-  margin-left: 5%;
+  margin-left: 84px;
+  margin-top: -22px;
 }
 
 .b-bigben__header{
-  font-size: 27pt;
+  font-size: 25pt;
   font-family: ubuntu light;
   color: #424242;
   margin: 0;
-  width: 30%;
+  width: 350px;
   text-align: center;
+  margin-left: 33px;
+  margin-top: 25px;
+  letter-spacing: 1px;
 }
 
 .b-bigben__paragraph{
@@ -21,13 +25,14 @@
 }
 
 .b-bigben__img{
-  width: 30%;
+  width: 430px;
+  cursor: pointer;
 }
 
 
 .b-bigben__altimg{
-  margin-left: 7%;
+  margin-left: 115px;
   margin-top: 15px;
   cursor: pointer;
-  width: 15%;
+  width: 195px;
 }

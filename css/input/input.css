@@ -5,24 +5,28 @@
 }
 
 .b-input__header{
-  width: 126px;
+  width: 180px;
   margin: 0;
-  font-size: 11pt;
+  font-size: 14pt;
   font-family: ubuntu medium;
   color: #424242;
+  letter-spacing: 1px;
+  word-spacing: 4px;
 }
 
 .b-input__text{
   height: 40px;
   border-radius: 5px;
-  width: 15%;
+  font-size: 12pt;
+  width: 185px;
   outline: none;
 }
 
 .b-input__text1{
   height: 40px;
   border-radius: 5px;
-  width: 15%;
+  font-size: 12pt;
+  width: 185px;
   outline: none;
 }
 

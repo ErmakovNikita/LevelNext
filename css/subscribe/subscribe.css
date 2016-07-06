@@ -1,6 +1,5 @@
-.b-subscribe--flex{
-  display: flex;
-  margin-left: 30%;
+.b-subscribe{
+  margin-top: -5px;
 }
 
 .b-subscribe__h1{

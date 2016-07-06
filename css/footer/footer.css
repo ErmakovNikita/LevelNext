@@ -22,10 +22,12 @@
 .b-footer__altnav{
   margin-left: 250px;
   margin-top: -40px;
+  font-size: 5pt;
 }
 
 .b-footer__altnavs{
-  margin-top: 15px;
+  margin-top: 20px;
+  margin-left: -30px;
 }
 
 .b-footer__address{
@@ -34,18 +36,33 @@
   cursor: pointer;
   font-family: ubuntu light;
   font-size: 14pt;
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 3px;
 }
 
-.b-footer__phone{
+.b-footer__phone1{
   color: white;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 11pt;
+  font-size: 15pt;
   position: absolute;
   font-family: ubuntu medium;
   margin: 0 auto;
-  width: 130px;
-  margin-left: 690px;
+  width: 180px;
+  margin-top: 0px;
+}
+
+.b-footer__phone2{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 15pt;
+  position: absolute;
+  font-family: ubuntu medium;
+  margin: 0 auto;
+  width: 180px;
+  margin-top: 25px;
 }
 
 .b-footer__ghostbutton{
@@ -55,10 +72,10 @@
 }
 
 .b-footer__paragraph{
-  margin-left: 250px;
+  margin-left: 219px;
   color: white;
-  width: 40%;
-  margin-top: -90px;
+  width: 490px;
+  margin-top: -11px;
   margin-bottom: 70px;
   font-family: ubuntu light;
   font-size: 12pt;
@@ -66,7 +83,8 @@
 
 .b-footer__altlogo{
   margin-top: 25px;
-  width: 13%;
+  width: 160px;
+  margin-left: 30px;
 }
 
 .b-footer__contacts{

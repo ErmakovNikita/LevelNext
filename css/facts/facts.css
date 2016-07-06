@@ -4,29 +4,38 @@
 }
 
 .b-facts__text1{
-  width: 45%;
-  margin-top: 0;
+  width: 143px;
+  margin-top: 10px;
+  font-size: 14pt;
+  line-height: 22px;
   color: #424242;
 }
 
 .b-facts__text2{
-  width: 40%;
-  margin-top: 0;
+  width: 120px;
+  margin-left: -5px;
+  margin-top: -50px;
+  line-height: 25px;
   color: #424242;
+  font-size: 14pt;
 }
 
 .b-facts__header1{
-  font-size: 45pt;
+  font-size: 50pt;
   font-family: ubuntu light;
   color: #424242;
-  width: 50%;
+  line-height: 50px;
+  letter-spacing: 2px;
+  width: 125px;
   margin-bottom: 0;
 }
 
 .b-facts__header2{
-  font-size: 45pt;
+  font-size: 50pt;
   font-family: ubuntu light;
   color: #424242;
-  width: 100%;
-  margin-bottom: 0;
+  width: 195px;
+  margin-top: 37px;
+  margin-left: -5px;
+  letter-spacing: 2px;
 }

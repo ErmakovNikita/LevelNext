@@ -1,9 +1,13 @@
 .b-nav{
   color: white;
   margin-bottom: -90px;
-  margin-top: 50px;
+  margin-top: 40px;
   margin-left: 35%;
   width: 45%;
+}
+
+.b-nav__bigs{
+  margin-top: 20px;
 }
 
 .b-nav__small{

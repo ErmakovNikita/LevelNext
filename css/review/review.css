@@ -1,5 +1,5 @@
 .b-review{
-  width: 50%;
+  width: 740px;
   margin-top: 25px;
 }
 
@@ -7,8 +7,10 @@
   margin: 0;
   color: white;
   font-family: ubuntu light;
-  font-size: 20pt;
-  margin-bottom: 20px
+  font-size: 24pt;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  letter-spacing: 2px;
 }
 
 .b-review__rev{
@@ -17,35 +19,40 @@
   border-width: 1px;
   color: white;
   position: relative;
-  height: 420px;
+  height: 430px;
+  width: 735px;
 }
 
 .b-review__b1{
-  margin-left: 20%;
+  margin-left: 140px;
   font-family: ubuntu medium;
-  font-size: 12pt;
-  margin-top: 35px;
+  font-size: 13pt;
+  margin-top: 23px;
 }
 
 .b-review__b2{
   font-family: ubuntu medium;
-  font-size: 12pt;
-  margin-left: 5%;
-  margin-top: 35px;
+  font-size: 14pt;
+  margin-left: 42px;
+  letter-spacing: 0.5px;
+  margin-top: 45px;
 }
 
 .b-review__altb{
   font-family: ubuntu light;
-  margin-left: 20%;
-  margin-top: -5px;
-  font-size: 10pt;
+  margin-left: 140px;
+  margin-top: -10px;
+  font-size: 13pt;
 }
 
 .b-review__paragraph{
-  margin-left: 5%;
+  margin-left: 42px;
   font-family: ubuntu light;
   font-size: 12pt;
-  margin-top: 35px;
+  margin-top: 19px;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  width: 665px;
 }
 
 .b-review__userpic{
@@ -55,12 +62,12 @@
 }
 
 .b-review__userpics{
-  margin-left: 31%;
-  margin-top: 100px;
+  margin-left: 275px;
+  margin-top: 80px;
 }
 
 .b-review__img{
-  margin-bottom: -100px;
-  width: 12%;
-  margin-left: 6%;
+  margin-bottom: -90px;
+  width: 75px;
+  margin-left: 40px;
 }
