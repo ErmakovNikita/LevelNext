@@ -1,19 +1,17 @@
 .b-header{
-  min-width: 980px;
-  max-width: 1280px;
-  margin: auto;
+  
 }
 
-.b-header__phone{
+.b-header__phone {
   color: white;
   text-decoration: underline;
   cursor: pointer;
   font-size: 13pt;
-  text-align: end;
+  text-align: right;
   margin-top: 55px;
-  margin-bottom: -95px;
-  width: 12%;
-  margin-left: 88%;
+  position: absolute;
+  right: 16px;
+  width: 170px;
   font-family: ubuntu medium;
 }
 

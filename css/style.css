@@ -19,6 +19,8 @@
 @import "langteasers/langteasers.css";
 @import "review/review.css";
 @import "nav/nav.css";
+@import "langteasers/langteasers.css";
+@import "container/container.css";
 @font-face {
   font-family: "ubuntu medium";
   src: url("../fonts/Ubuntu-Medium.ttf");

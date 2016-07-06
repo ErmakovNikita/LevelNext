@@ -8,6 +8,7 @@
   font-size: 11pt;
   font-family: ubuntu light;
   width: 56%;
+  color: #424242;
 }
 
 .b-bestteachers__img{
@@ -39,4 +40,5 @@
 .b-bestteachers__header{
   font-family: ubuntu medium;
   font-size: 15pt;
+  color: #424242;
 }

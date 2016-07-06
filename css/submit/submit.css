@@ -9,9 +9,9 @@
   width: 25%;
   height: 35px;
   outline: none;
-  background: linear-gradient(#9ec970 , #70a540 75%);
+  background: linear-gradient(#a9d17b , #6fa43f 90%);
 }
 
 .b-submit:hover{
-  background: linear-gradient(#70a540 75%, #9ec970);
+  background: linear-gradient(#6fa43f, #a9d17b 90%);
 }

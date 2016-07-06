@@ -5,6 +5,7 @@
 .b-bigben__header{
   font-size: 27pt;
   font-family: ubuntu light;
+  color: #424242;
   margin: 0;
   width: 30%;
   text-align: center;
@@ -16,6 +17,7 @@
   width: 35%;
   font-family: ubuntu light;
   font-size: 14pt;
+  color: #424242;
 }
 
 .b-bigben__img{

@@ -6,16 +6,19 @@
 .b-facts__text1{
   width: 45%;
   margin-top: 0;
+  color: #424242;
 }
 
 .b-facts__text2{
   width: 40%;
   margin-top: 0;
+  color: #424242;
 }
 
 .b-facts__header1{
   font-size: 45pt;
   font-family: ubuntu light;
+  color: #424242;
   width: 50%;
   margin-bottom: 0;
 }
@@ -23,6 +26,7 @@
 .b-facts__header2{
   font-size: 45pt;
   font-family: ubuntu light;
+  color: #424242;
   width: 100%;
   margin-bottom: 0;
 }

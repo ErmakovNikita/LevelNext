@@ -1,12 +1,14 @@
 .b-logo1{
-  margin-bottom: -24px;
+  margin-bottom: -23px;
   margin-top: 10px;
   margin-left: 5%;
-  width: 11%;
+  width: 10%;
+  cursor: pointer;
 }
 
 .b-logo2{
-  margin-bottom: 70px;
+  margin-bottom: 60px;
+  margin-left: 2%;
   cursor: pointer;
-  width: 13%;
+  width: 15%;
 }

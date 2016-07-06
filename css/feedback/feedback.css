@@ -28,11 +28,11 @@
   width: 67%;
   height: 40px;
   outline: none;
-  background: linear-gradient(#9ec970 , #70a540 75%);
+  background: linear-gradient(#a9d17b , #6fa43f 90%);
 }
 
 .b-feedback__button:hover{
-  background: linear-gradient(#70a540 75%, #9ec970 );
+  background: linear-gradient(#6fa43f, #a9d17b 90%);
 }
 
 .b-feedback__text{
