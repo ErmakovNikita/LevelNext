@@ -12,9 +12,9 @@
 }
 
 .b-bestteachers__img{
-  width: 10%;
+  width: 11%;
   margin: 0 auto;
-  margin-right: 2%;
+  margin-right: 1%;
   cursor: pointer;
 }
 
@@ -23,7 +23,7 @@
   text-align: center;
   margin-left: 50%;
   width: 105px;
-  margin-top: -120px;
+  margin-top: -122px;
   height: 105px;
   border: solid 2px;
   border-color: orange;

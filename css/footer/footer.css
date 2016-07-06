@@ -38,10 +38,14 @@
 
 .b-footer__phone{
   color: white;
-  width: 165px;
-  font-family: ubuntu medium;
-  font-size: 14pt;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 11pt;
   position: absolute;
+  font-family: ubuntu medium;
+  margin: 0 auto;
+  width: 130px;
+  margin-left: 690px;
 }
 
 .b-footer__ghostbutton{
