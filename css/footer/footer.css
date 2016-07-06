@@ -73,9 +73,10 @@
 }
 
 .b-footer__ghostbutton{
-  margin-left: 250px;
-  margin-bottom: 100px;
+  margin-left: 215px;
   width: 515px;
+  margin-top: 75px;
+  margin-bottom: 100px;
 }
 
 .b-footer__paragraph{
