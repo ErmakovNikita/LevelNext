@@ -6,19 +6,18 @@
   color: white;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 13pt;
-  text-align: right;
-  margin-top: 75px;
+  font-size: 16pt;
+  margin-top: 70px;
   position: absolute;
-  margin-left: 1095px;
-  width: 170px;
+  margin-left: 1082px;
+  width: 190px;
   font-family: ubuntu medium;
 }
 
 .b-header__link{
   margin: 0 auto;
   margin-left: 96%;
-  margin-bottom: -40px;
+  margin-bottom: -60px;
   cursor: pointer;
   opacity: 0.75;
 }
